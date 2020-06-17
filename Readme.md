@@ -3,7 +3,8 @@
 ## 1주차 과제 (2020. 05.21)
 [인공지능 사례분석](https://github.com/ldk7024/-/blob/master/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5_%EC%82%AC%EA%B4%80%ED%95%99%EA%B5%90_1%EC%A3%BC%EC%B0%A8_%EA%B3%BC%EC%A0%9C.ipynb)
 ## 2주차 과제 (2020.05.28)
-[파이썬과 인공지능 기초수학](https://github.com/ldk7024/-/blob/master/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EC%82%AC%EA%B4%80%ED%95%99%EA%B5%90%202%EC%A3%BC%EC%B0%A8%20%EA%B3%BC%EC%A0%9C.ipynb)
+[파이썬과 인공지능 기초수학](https://github.com/ldk7024/-/blob/master/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EC%82%AC%EA%B4%80%ED%95%99%EA%B5%90%202%EC%A3%BC%EC%B0%A8%20%EA%B3%BC%EC%A0%9C.ipynb)/
+
 [링크가 열리지 않을시 이 주소로 접속해주세요]
 (https://nbviewer.jupyter.org/github/ldk7024/-/blob/master/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EC%82%AC%EA%B4%80%ED%95%99%EA%B5%90%202%EC%A3%BC%EC%B0%A8%20%EA%B3%BC%EC%A0%9C.ipynb)
 ## 3주차 과제 (2020.06.04)
